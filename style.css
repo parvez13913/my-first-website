@@ -3,3 +3,10 @@ h1{
     text-align: center;
     border-radius: 50%;
 }
+body{
+    background-color: rgba(124, 9, 240, 0.829);
+}
+p{
+    border: 5px solid rgb(149, 165, 212);
+    border-radius: 2%;
+}
