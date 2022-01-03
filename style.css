@@ -2,6 +2,7 @@ h1{
     border: 5px solid rebeccapurple;
     text-align: center;
     border-radius: 50%;
+    text-decoration: white;
 }
 body{
     background-color: rgba(124, 9, 240, 0.829);
@@ -9,4 +10,5 @@ body{
 p{
     border: 5px solid rgb(149, 165, 212);
     border-radius: 2%;
+    
 }
