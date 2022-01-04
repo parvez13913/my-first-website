@@ -34,3 +34,39 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.section3{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 5%;
+}
+.mother-div{
+    display: flex;
+}
+.full-stack{
+    box-shadow: 10px 10px 50px 2px rgb(223, 217, 217);
+    width: 50%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 2%;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgba(230, 118, 118, 0.945),rgb(236, 57, 111));
+    border-image-slice: 1;
+}
+.experience{
+    font-size: 50px;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 1;
+    box-shadow: 10px 10px 50px 2px rgb(223, 217, 217);
+    width: 50%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 2%;
+}
+.footer{
+    text-align: center;
+}
